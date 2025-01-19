@@ -1,0 +1,102 @@
+/* For Earth and Mars assignment */
+/* body {
+    background-color: #333;
+    color: #f4f4f4;
+}
+a {
+    color: yellow;
+}
+h3{
+    font-size: 24px;
+}
+h1{
+    color: darkkhaki;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+#earth-title {
+    color: lightgreen;
+} */
+
+/* For dinosaur assignment */
+/*body {
+    margin: 0;
+}
+
+header {
+    background-color: darkgreen;
+    color: yellow;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+}
+
+main {
+    background-color: lightblue;
+    width: 600px;
+    padding: 20px;
+    border: 5px red solid;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: grey;
+    color: lightgreen;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px;
+}*/
+
+/* For layout assignment */
+body{
+    margin: 0;
+    /* this font size will effect all elements (other than h1-> h6 on the page)*/
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+header {
+    background-color: #588C94;
+    text-align: center;
+    color: white;
+    padding: 30px 0;
+}
+
+.intro {
+    text-align: center;
+    width: 500px;
+    margin: 100px auto;
+    color: gray
+}
+
+.my-skills {
+    background-color: #1D3C41;
+    color: white;
+    text-align: center;
+    padding: 75px 0;
+}
+
+.columns {
+    display: flex;
+    width: 900px;
+    margin: 30px auto;
+}
+
+.column {
+    padding: 5px;
+    margin: 0 10px;
+}
